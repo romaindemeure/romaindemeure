@@ -9,11 +9,11 @@
 
 - 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3 et Django**
 
-- 🪂 En dehors de l'ordi [Je fais du parapente et je suis en train d'apprendre le parachute](Je fais du parapente et je suis en train d'apprendre le parachute)
-
 - 📫 Comment me joindre **demeureromain4@gmail.com**
 
 - ⚡ Fun fact **J'ai mangé McDonald gratuitement pendant 2 ans grâce à une variable en Javascript (légalement)**
+
+- 🪂 En dehors de l'ordi **Je fais du parapente et je suis en train d'apprendre le parachute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
