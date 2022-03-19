@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, mon nom est Demeure Romain</h1>
-<h3 align="center">Je suis passionner pour le développement notamment Python, Js/Ts. Créer un projet et le voir évoluer petit à petit est vraiment quelque chose qui m'épanouit 💻</h3>
+<h3 align="center">Je suis passionné par le développement notamment Python, VueJS (Javascript/Typescript). Créer un projet et le voir évoluer petit à petit est vraiment quelque chose qui m'épanouit 💻</h3>
 
 - 🔭 J'adore utiliser Python car **c'est le langage sur lequel j'ai appris l'algorithmique et avec lequel j'ai le plus travailler**
 
