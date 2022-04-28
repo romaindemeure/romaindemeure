@@ -5,9 +5,9 @@
 
 - 👀 Je recherche une entreprise pour de l'alternance **J'aimerais faire du développement informatique mon métier**
 
-- 🌱 Je suis en train d'apprendre **Vue3, VueRouter et Vite**
+- 🌱 Je suis en train d'apprendre **FastAPI**
 
-- 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3 et Django**
+- 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3 et FastAPI**
 
 - ⚡ Fun fact **J'ai mangé McDonald gratuitement pendant 2 ans grâce à une variable en Javascript (légalement)**
 
