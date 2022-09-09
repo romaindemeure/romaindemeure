@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, mon nom est Demeure Romain</h1>
 <h3 align="center">Je suis passionné par le développement notamment Python, VueJS (Javascript/Typescript). Créer un projet et le voir évoluer petit à petit est vraiment quelque chose qui m'épanouit 💻</h3>
 
-- 🔭 J'adore utiliser Python car **c'est le langage sur lequel j'ai appris l'algorithmique et avec lequel j'ai le plus travaillé**
+- 🔭 J'adore utiliser Python car c'est le langage sur lequel j'ai appris l'algorithmique et avec lequel j'ai le plus travaillé
 
 - ⚡ Je suis actuellement en alternance au sein de **Satelliz** avec l'école **Cesi** de Brest
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3 et GraphQL**
 
-- 🪂 En dehors de l'informatique **Je fais du parapente et j'aimerais apprendre le parachute**
+- 🪂 En dehors de l'informatique je fais du **parapente** et j'aimerais apprendre le **parachute**
 
 - 📫 Comment me joindre **demeureromain4@gmail.com**
 
