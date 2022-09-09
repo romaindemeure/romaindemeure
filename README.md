@@ -3,15 +3,13 @@
 
 - 🔭 J'adore utiliser Python car **c'est le langage sur lequel j'ai appris l'algorithmique et avec lequel j'ai le plus travailler**
 
-- 👀 Je recherche une entreprise pour de l'alternance **J'aimerais faire du développement informatique mon métier**
+- ⚡ Je suis actuellement en alternance a **Satelliz** avec l'école **Cesi** de Brest
 
-- 🌱 Je suis en train d'apprendre **FastAPI**
+- 🌱 Je suis en train d'apprendre **Typescript** et **GraphQL**
 
-- 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3 et FastAPI**
+- 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3 et GraphQL**
 
-- ⚡ Fun fact **J'ai mangé McDonald gratuitement pendant 2 ans grâce à une variable en Javascript (légalement)**
-
-- 🪂 En dehors de l'ordi **Je fais du parapente et je suis en train d'apprendre le parachute**
+- 🪂 En dehors de l'informatique **Je fais du parapente et j'aimerais apprendre le parachute**
 
 - 📫 Comment me joindre **demeureromain4@gmail.com**
 
