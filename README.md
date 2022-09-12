@@ -7,7 +7,7 @@
 
 - 🌱 Je suis en train d'apprendre **Typescript** et **GraphQL**
 
-- 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3 et GraphQL/TypeScript**
+- 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3, GraphQL et TypeScript**
 
 - 🪂 En dehors de l'informatique je fais du **parapente** et j'aimerais apprendre le **parachute**
 
