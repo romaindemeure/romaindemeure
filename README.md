@@ -5,9 +5,9 @@
 
 - ⚡ Je suis actuellement en alternance au sein de **Satelliz** avec l'école **Cesi** de Brest
 
-- 🌱 Je suis en train d'apprendre **Typescript** et **GraphQL**
+- 🌱 Je suis en train d'apprendre **Golang** et **Kubernetes**
 
-- 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place **notamment avec Vue3, GraphQL et TypeScript**
+- 👨‍💻 J'ai beaucoup d'idées de projets à mettre en place notamment avec **Golang, Vue.js3**
 
 - 🪂 En dehors de l'informatique je fais du **parapente** et j'aimerais apprendre le **parachute**
 
