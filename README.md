@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Golang**
 
-- 👨‍💻 I'm currently learning how to make nice **APIs** in Golang
+- 👨‍💻 I'm working on a project to make a beautiful **APIs** in Golang
 
 - 🪂 Outside of IT I do **paragliding** and I would like to learn **parachute**
 
